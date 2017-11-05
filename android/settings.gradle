@@ -1,0 +1,3 @@
+rootProject.name = 'jv_auth'
+
+include ':app'
